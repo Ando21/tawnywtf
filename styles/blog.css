@@ -1,0 +1,29 @@
+body {
+  background-color: #2A363B;
+}
+h1 {
+  color: #E84A5F;
+  font-family: Arial, monospace;
+  font-size: 300%;
+}
+
+h2 {
+  color: #FECEAB;
+  font-family: Arial, monospace;
+  font-size: 150%;
+}
+
+h3 {
+  color: #E84A5F;
+  font-family: Arial, monospace;
+  font-size: 100%;
+}
+
+
+p {
+  color: #FECEAB;
+  font-family: Arial, monospace;
+  font-size: 90%;
+}
+
+## https://digitalsynopsis.com/design/minimal-web-color-palettes-combination-hex-code/

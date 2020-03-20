@@ -1,0 +1,25 @@
+body {
+padding-top: 550px;
+text-align: right;
+font-family: Arial, monospace;
+background: url(https://media.giphy.com/media/3o6ZtnqJOjVug4DNhm/giphy.gif) 50%;
+background-size: contain;
+}
+h1, h2, h3 {
+display: inline-block;
+background: #E84A5F;
+}
+h1 {
+font-size: 60px
+}
+h2 {
+font-size: 20px;
+}
+span {
+background:  #FF847C;
+}
+button {
+    background-color: #FECEAB;
+    font-family: Arial, monospace;
+    padding: 0px;
+    font-size: 20px}

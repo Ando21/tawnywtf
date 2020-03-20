@@ -1,0 +1,20 @@
+body {
+  background-color: #2A363B;
+  font-family: Arial, monospace;
+}
+h1 {
+  color: #E84A5F;
+  font-family: Arial, monospace;
+  font-size: 300%;
+}
+p1, p2, p3 {
+  color:  #99B898;
+  font-family: Arial, monospace;
+  font-size: 160%;
+  font-weight:bold;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
