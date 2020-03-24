@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # import utils for tawny.wtf website
 import tawny_wtf_utils
 import time

@@ -145,8 +145,8 @@ def create_art_page():
         <link rel="stylesheet" href="styles/harvardart.css">
     </head>
     <body>
-      <h1>Here is a random photo from the Harvard Art Museums Collection:</h1>
-      <h2> This page will update daily with a new image</h2><br>
+      <h1>Harvard Art Museums Collection Photo:</h1>
+      <h2> This page will update daily with a new random image</h2><br>
       <div>
           <p1>Today's Image:</p1>
           <h3>Copyright: {chosen_image['copyright']}</h3>
